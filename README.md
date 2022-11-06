@@ -9,7 +9,7 @@
 
 ### Contacts:
 
-- E-mail: [Ilyos](mailto://temurbek0850@gmail.com)
+- E-mail: [Temurbek](mailto://temurbek0850@gmail.com)
 - Phone: [+998(97)-791-0543](tel://+998975104840)
 - Telegram: [@Raxmonberganov_Temurbek](https://t.me/Raxmonberganov_Temurbek)
 
