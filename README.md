@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @temurbek0850
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hello my friend 👋
 
-<!---
-temurbek0850/temurbek0850 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+ I'm a 30y.o. software engineer from Uzbekistan, specialized in web development.
+
+#### I'm comfortable working with:
+
+-   PHP - back-end frontend restapi (Yii,Laravel, Slim 4)
+-   DBMS - relational databases (MySQL, MsSQL, SQLite)
+
+### Contacts:
+
+- E-mail: [Ilyos](mailto://temurbek0850@gmail.com)
+- Phone: [+998(97)-791-0543](tel://+998975104840)
+- Telegram: [@Raxmonberganov_Temurbek](https://t.me/Raxmonberganov_Temurbek)
+
