@@ -4,7 +4,7 @@
 
 #### I'm comfortable working with:
 
--   PHP - back-end frontend restapi (Yii,Laravel, Slim 4)
+-   PHP - back-end frontend restapi (Yii,Laravel)
 -   DBMS - relational databases (MySQL, MsSQL, SQLite)
 
 ### Contacts:
